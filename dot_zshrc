@@ -167,3 +167,19 @@ alias bz="bazel"
 alias bzr="bazel run"
 alias bzb="bazel build"
 alias bzt="bazel test"
+
+alias klocal="k config use-context minikube"
+alias kmmi="k config use-context mmi"
+alias kmeta="k config use-context meta"
+
+alias ks="kubectl -n glassworks-shotglass"
+alias kdev="kubectl -n glassworks-dev"
+alias kstage="kubectl -n glassworks-staging"
+alias kprod="kubectl -n glassworks-prod"
+alias ksand="kubectl -n glassworks-sandbox"
+
+alias kmetaprod="kubectl -n glassworks-meta"
+
+
+
+
