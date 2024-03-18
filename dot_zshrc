@@ -176,7 +176,7 @@ alias kcsandbox="k config use-context sandbox"
 
 alias kl="kubectl -n glassworks-shotglass"
 alias kdev="kubectl -n dev"
-alias kstage="kubectl -n staging"
+alias kstaging="kubectl -n staging"
 alias kprod="kubectl -n prod"
 alias ksand="kubectl -n sandbox"
 
