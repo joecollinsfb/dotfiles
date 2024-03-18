@@ -175,11 +175,7 @@ alias kcprod="k config use-context mmi-prod"
 alias kcsandbox="k config use-context sandbox"
 
 alias kl="kubectl -n glassworks-shotglass"
-alias kdev="kubectl -n dev"
-alias kstaging="kubectl -n staging"
-alias kprod="kubectl -n prod"
-alias ksand="kubectl -n sandbox"
-
-
-
-
+alias kd="kubectl -n dev"
+alias ks="kubectl -n staging"
+alias kp="kubectl -n prod"
+alias ks="kubectl -n sandbox"
