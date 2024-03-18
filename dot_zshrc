@@ -172,7 +172,7 @@ alias kclocal="k config use-context minikube"
 alias kcdev="k config use-context mmi-dev"
 alias kcstaging="k config use-context mmi-staging"
 alias kcprod="k config use-context mmi-prod"
-alias kcsandbox="k config use-context mmi-sandbox"
+alias kcsandbox="k config use-context sandbox"
 
 alias kl="kubectl -n glassworks-shotglass"
 alias kdev="kubectl -n dev"
